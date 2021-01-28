@@ -1,0 +1,8 @@
+Assignment OrderOfGrowth1 [JacobsSeth]: 10/10
+
+good work!
+
+
+Pulled files on Fri Sep 18 10:36:49 EDT 2020
+Latest commit of student files ....
+Latest commit of IntroToAlgorithms/assignments/OrderOfGrowth1/OrderOfGrowth1.pdf was on: Fri Sep 18 00:35:43 2020
